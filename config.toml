@@ -1,4 +1,4 @@
-baseURL = "https://pawelsawicz.github.io/oufc-website3/"
+baseURL = "https://oufc.github.io/website/"
 languageCode = "en-us"
 title = "OUFC"
 themesDir = "themes"
