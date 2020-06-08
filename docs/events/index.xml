@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on OUFC</title>
+    <link>https://pawelsawicz.github.io/oufc-website3/events/</link>
+    <description>Recent content in Events on OUFC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pawelsawicz.github.io/oufc-website3/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President&#39;s Welcome</title>
+      <link>https://pawelsawicz.github.io/oufc-website3/events/1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/oufc-website3/events/1/</guid>
+      <description>Welcome to the Oxford University Fencing Club website!
+Founded in 1891, OUFC is one of Britain’s oldest and most successful fencing clubs. The club caters for all levels, from beginners to international.</description>
+    </item>
+    
+  </channel>
+</rss>

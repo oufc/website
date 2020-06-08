@@ -1,0 +1,21 @@
+baseURL = "https://pawelsawicz.github.io/oufc-website3/"
+languageCode = "en-us"
+title = "OUFC"
+themesDir = "themes"
+theme = "ananke"
+publishDir = "docs"
+pcc_logo = "/images/logo.png"
+custom_css = ["css/custom.css"]
+enableRobotsTXT = true
+
+[params]
+    facebook = "https://www.facebook.com/oufencing/"
+    featured_image = "/images/fencing.jpg"
+
+[menu]
+
+    [[menu.main]]
+        name = "About"
+        weight = -45
+        identifier = "about"
+        url = "/about/"
